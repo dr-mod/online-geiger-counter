@@ -2,7 +2,7 @@
 
 A device that keeps track of ionizing radiation.
 
-![](docs/device.jpg)
+![](docs/device.jpeg)
 ### [Video in action](https://twitter.com/dr2mod/status/1584209364604588032)
 
 ### Hardware
